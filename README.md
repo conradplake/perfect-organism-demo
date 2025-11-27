@@ -13,7 +13,11 @@ It shows you around the ship while playing the eery flute motif from the 1979 Al
  </tr>
  <tr>  
   <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/operations_room.png" alt="Screenshot_4" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor_2.png" alt="Screenshot_5" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor.png" alt="Screenshot_6" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/operations_room_2.png" alt="Screenshot_5" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/look_outside_window.png" alt="Screenshot_6" width="300"></td>
+ </tr>
+ <tr>
+  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor_2.png" alt="Screenshot_7" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor.png" alt="Screenshot_8" width="300"></td>
  </tr>
 </table>

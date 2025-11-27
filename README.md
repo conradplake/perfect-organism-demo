@@ -5,6 +5,8 @@ A large bipedal black organism has been seen lurking around the corridors of an 
 Where did it come from? What happened to the crew? Take an atmospheric deep dive into this short sci-fi Java demo. 
 It shows you around the ship while playing the eery flute motif from the 1979 Alien movie score composed by Jerry Goldsmith.
 
+Uses <a href="https://github.com/conradplake/gframe">gframe</a> for 3d scene building and rendering.
+
 <table>
  <tr>
   <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/space_station.png" alt="Screenshot_1" width="300"></td>

@@ -1,4 +1,4 @@
-# perfect-organism-demo
+# perfect-organism
 A short sci-fi Java graphics demo
 
 A large bipedal black organism has been seen lurking around the corridors of an abandoned ship. 

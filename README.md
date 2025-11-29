@@ -9,17 +9,17 @@ Uses <a href="https://github.com/conradplake/gframe">gframe</a> for 3d scene bui
 
 <table>
  <tr>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/space_station.png" alt="Screenshot_1" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/window.png" alt="Screenshot_2" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/window_dark.png" alt="Screenshot_3" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/space_station.png" alt="Screenshot_1" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/window.png" alt="Screenshot_2" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/window_dark.png" alt="Screenshot_3" width="300"></td>
  </tr>
  <tr>  
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/operations_room.png" alt="Screenshot_4" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/operations_room_2.png" alt="Screenshot_5" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/look_outside_window.png" alt="Screenshot_6" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/operations_room.png" alt="Screenshot_4" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/operations_room_2.png" alt="Screenshot_5" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/look_outside_window.png" alt="Screenshot_6" width="300"></td>
  </tr>
  <tr>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor_2.png" alt="Screenshot_7" width="300"></td>
-  <td><img src="https://github.com/conradplake/perfect-organism-demo/blob/main/screenshots/corridor.png" alt="Screenshot_8" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/corridor_2.png" alt="Screenshot_7" width="300"></td>
+  <td><img src="https://github.com/conradplake/perfect-organism/blob/main/screenshots/corridor.png" alt="Screenshot_8" width="300"></td>
  </tr>
 </table>
